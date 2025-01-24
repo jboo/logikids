@@ -63,7 +63,8 @@
         "word_problems": "Textaufgaben",
         "fractions": "Brüche & Dezimalzahlen",
         "geometry": "Geometrie",
-        "measurement": "Maße & Einheiten"
+        "measurement": "Maße & Einheiten",
+        "fraction_calculations": "Bruchrechnung"
       }
     },
     "logic": {

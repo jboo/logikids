@@ -106,6 +106,24 @@ Focus on creating a measurement problem that:
 - Uses real-world contexts
 - Connects to everyday experiences
 - Emphasizes proper unit usage`
+    },
+    fraction_calculations: {
+      id: 'fraction_calculations',
+      name: 'Bruchrechnung',
+      description: 'Grundlegende Operationen mit Brüchen: Addition, Subtraktion, Multiplikation und Division von Brüchen',
+      promptTemplate: `
+Focus on creating a fraction calculation problem that:
+- Uses clear and systematic fraction operations
+- Is appropriate for age {{age}} students
+- Includes step-by-step solutions
+- Uses visual representations when helpful
+- Connects to real-world examples
+- Covers operations like:
+  * Addition/Subtraction of fractions
+  * Multiplication/Division of fractions
+  * Simplifying fractions
+  * Converting between mixed numbers and improper fractions
+- Uses practical scenarios that demonstrate fraction usage`
     }
   };
 }

@@ -63,7 +63,8 @@
         "word_problems": "Word Problems",
         "fractions": "Fractions & Decimals",
         "geometry": "Geometry",
-        "measurement": "Measurement & Units"
+        "measurement": "Measurement & Units",
+        "fraction_calculations": "Fraction Calculations"
       }
     },
     "logic": {
